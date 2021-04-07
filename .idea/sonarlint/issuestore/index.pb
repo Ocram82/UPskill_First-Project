@@ -15,3 +15,5 @@ d
 4src/pt/upskills/projeto/rogue/utils/GameDynamic.java,3\0\302d224469f5b77016182cdec5df229104d161ad
 W
 'Rogue_Iscte2020_v_1_0_Nome_Completo.iml,9\a\9ade8b00bf28be022aeb60d00b730aeec3f1fce7
+X
+(src/pt/upskills/projeto/game/Engine.java,9\f\9f5e8914c8e513d8f72a8ad0fa01d30b58ffdd82
