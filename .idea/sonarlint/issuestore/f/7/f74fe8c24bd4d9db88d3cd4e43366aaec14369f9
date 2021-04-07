@@ -1,0 +1,17 @@
+
+J
+java:S1066E"/Merge this if statement with the enclosing one.(Çã‰üÿÿÿÿ
+a
+java:S2259K"FA "NullPointerException" could be thrown; "position" is nullable here.(Çã‰üÿÿÿÿ
+a
+java:S2259E"FA "NullPointerException" could be thrown; "position" is nullable here.(Çã‰üÿÿÿÿ
+m
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 81 to the 15 allowed.(Êİ¬îıÿÿÿÿ
+3
+java:S2119"Save and re-use this "Random".(¼İÅf
+Q	java:S125"<This block of commented-out lines of code should be removed.(Øª±Ä
+6	java:S131""Add a default case to this switch.(‹³»n
+6	java:S131,""Add a default case to this switch.(‹³»n
+H
+java:S1135R"2Complete the task associated to this TODO comment.(°Œô’
